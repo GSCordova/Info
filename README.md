@@ -1,8 +1,6 @@
-# Angular
+# Info
 
 ```javascript
-var manolo = perro;
-function matar() {
-    hola
-}
+var prueba = 'hola';
+
 ```
